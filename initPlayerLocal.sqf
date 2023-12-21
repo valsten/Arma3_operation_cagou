@@ -1,0 +1,1 @@
+execVM "initCivilianTalk.sqf"
